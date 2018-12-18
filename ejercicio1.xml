@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<rss version="2.0">  
+<channel>  
+    
+    <title>El tiempo</title>  
+    <link>https://www.tiempo.es/</link>  
+    <description>Pagina principal</description>   
+    <item>  
+        <title>Avisos</title>  
+        <link>https://www.tiempo.es/avisos/</link>  
+        <description>Avisos metereologicos</description>  
+    </item>
+    
+</channel> 
+</rss>  
